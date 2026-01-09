@@ -1,6 +1,6 @@
 # library system management by John Vincent Gudani
 
-📚 Library Management System (LMS)
+📚 Library Management System
 A modern, web-based solution for managing a library's book inventory, member records, and loan transactions. This project integrates a MySQL database with a PHP backend and a modern CSS dashboard.
 
 🚀 Features
@@ -13,7 +13,7 @@ Data Integrity: Relational database design with Foreign Key constraints to preve
 Input Validation: JavaScript-driven client-side validation to ensure data quality.
 
 🛠️ Tech Stack
-Frontend: HTML5, CSS3, JavaScript 
+Frontend: HTML5, CSS, JavaScript 
 
 Backend: PHP
 
